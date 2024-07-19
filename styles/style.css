@@ -1,0 +1,33 @@
+body {
+  margin:50px;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+}
+
+h1 {
+  color: rgb(83, 75, 75);
+}
+
+p {
+  color: rgb(83, 75, 75);
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#manhbeo {
+  color: coral;
+  font-weight: bold;
+  font-size: 52px;
+}
+
