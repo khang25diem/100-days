@@ -1,31 +1,28 @@
 body {
-    text-align: center;
-    background-color: rgb(233, 215, 207);
-    margin: 50px;
-    color: rgb(83, 75, 75);
-  }
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+  color: rgb(83, 75, 75);
+  font-family: "Fira Sans", sans-serif;
+  margin: 50px;
+}
 
-  a {
-    color: rgb(186, 35, 88);
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-    color: red;
-  }
+a {
+  color: rgb(186, 35, 88);
+  text-decoration: none;
+}
 
-  h1 {
-    font-family: "Oswald", sans-serif;
-    font-size: 50px;
-  }
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
 
-  p {
-    font-family: "Fira Sans", sans-serif;
-    font-size: large;
-  }
+h1 {
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+}
 
-  #phancam {
-    font-size: 30px;
-    font-weight: bold;
-  }
+p {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 25px;
+}
